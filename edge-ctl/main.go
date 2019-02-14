@@ -36,7 +36,7 @@ func main() {
 		resp, err := http.DefaultClient.Get(fmt.Sprintf("http://localhost:5001/api/v0/pubsub/pub?arg=%s/tasks&arg=%s", os.Args[2], os.Args[3]))
 		checkError(err)
 		defer resp.Body.Close()
-		log.Printf("Add successful, you can use `edge-ctl data %s` to get the result.", os.Args[3], os.Args[3])
+		log.Printf("Add successful, you can use `edge-ctl data %s` to get the result.", os.Args[3])
 		return
 	}
 
