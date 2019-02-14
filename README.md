@@ -10,4 +10,4 @@ Edge compute with p2p (peer to peer) network, base on IPFS & IPFS pubsub。
 
 ### Architecture
 
-![edge](https://user-images.githubusercontent.com/1459834/52037987-b92d6880-256b-11e9-8937-40181cc7cfe7.png)
+![edage](https://user-images.githubusercontent.com/1459834/52759500-0408af00-3047-11e9-89c7-4ec774f69c4e.png)

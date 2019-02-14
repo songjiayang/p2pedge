@@ -92,8 +92,7 @@ func (t *Task) Run() error {
 		return err
 	}
 
-	os.Setenv("EDAGE_APP_ID", t.cfg.ID)
-
+	os.Setenv("EDGE_APP_ID", t.cfg.ID)
 	cmd := exec.Command(t.cfg.Cmd)
 	return cmd.Run()
 }
