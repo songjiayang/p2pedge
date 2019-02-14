@@ -1,0 +1,7 @@
+github.com/computes/go-debug v1.0.0 h1:5F8KRs4VhdxymYWbWpu9F0c5h28MkTT7CMpknZZiqYg=
+github.com/computes/go-debug v1.0.0/go.mod h1:x3OFURYnD24wGvTGhx9fhJLsCkZwOAKtv60WySwAtB0=
+github.com/computes/go-test-server v1.2.2/go.mod h1:Jwxjd/K8qWAwYYTAajlePOd9zKF9KcufVRfzBvC/Luk=
+github.com/computes/ipfs-http-api v0.0.0-20181112185240-0e8c6713244e h1:KycD5z127FFuNrvs5C2M5qeqRWVtB0gpf0cubin3uvY=
+github.com/computes/ipfs-http-api v0.0.0-20181112185240-0e8c6713244e/go.mod h1:CWjHgCSlv8vC/mvQtEj7pduhMQH8vKXOm07tecRoToY=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
